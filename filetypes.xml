@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="riso" type="AIDL" />
+      <mapping pattern="risada" type="ARCHIVE" />
+      <mapping ext="mp3" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
